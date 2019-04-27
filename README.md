@@ -31,3 +31,11 @@ Map, Filter, Reduce
 List Comprehension
 Set Comprehension
 Try, Except, Finally
+
+Day - 5: 27-4-2019
+Class and Object
+OS Library
+Module in python
+import and from import
+Numpy: Why Numpy?
+Numpy Basics
