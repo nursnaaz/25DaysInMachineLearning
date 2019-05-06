@@ -39,3 +39,16 @@ Module in python
 import and from import
 Numpy: Why Numpy?
 Numpy Basics
+
+Day - 6: 28-4-2019
+Pandas
+Data Loading
+Data Manipulation
+Data Filtering
+Data Grouping
+
+Day - 7: 04-05-2019
+What is Data Preprocessing?
+Why Data Preprocessing?
+Diferent Technique of Data Preprocessing
+Data Preprocessing with pandas example
