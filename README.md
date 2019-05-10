@@ -1,7 +1,7 @@
 # 25DaysInMachineLearning
 I will update this repository to learn Machine learning with python with statistics content and materials
 
-[README](25DaysInMachineLearning/01 - Day - 1 Analytics_Python/01 - Day - 1 Analytics_Python.pdf)
+[README](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/01%20-%20Day%20-%201%20Analytics_Python)
 
 Day - 1: 6-4-2019
 We Learnt about 
