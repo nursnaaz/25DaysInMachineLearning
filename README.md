@@ -66,7 +66,7 @@ Part - 2:
 Examples understanding indetail Concepts of Descriptive Statistics of Part - 1,
 Correlation, Covariance and Visualization
 
-[Day - 10](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/09%20-%20Day%20-%209%20-%20Descriptive%20Statistics%202): 12-05-2019
+[Day - 10](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 12-05-2019
 Part - 3:
 Explaining Sampling bias, Various Sampling techniques, Characteristics of Normal Distribution and empirical rule,
 Central Limit Theorem,
