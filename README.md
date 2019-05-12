@@ -63,5 +63,5 @@ Percentiles, Quartiles and Box - Plots
 
 [Day - 9](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/09%20-%20Day%20-%209%20-%20Descriptive%20Statistics%202): 11-05-2019
 Part - 2:
-Examples understanding indetail Concepts of Descriptive Statistics of Part - 1
+Examples understanding indetail Concepts of Descriptive Statistics of Part - 1,
 Correlation, Covariance and Visualization
