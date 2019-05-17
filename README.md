@@ -57,7 +57,7 @@ Data Preprocessing with pandas example
 [Day - 8](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/08%20-%20Day%20-%208%20-%20Descriptive%20Statistics): 05-05-2019
 Part - 1:
 What is Statistics?
-Why Data the types?
+What are the Data types?
 Different measures - Central Tendency and Dispersion
 Percentiles, Quartiles and Box - Plots
 
@@ -65,3 +65,9 @@ Percentiles, Quartiles and Box - Plots
 Part - 2:
 Examples understanding indetail Concepts of Descriptive Statistics of Part - 1,
 Correlation, Covariance and Visualization
+
+[Day - 10](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 12-05-2019
+Part - 3:
+Explaining Sampling bias, Various Sampling techniques, Characteristics of Normal Distribution and empirical rule,
+Central Limit Theorem,
+Standard Error, Z - Score, Confiedence Intervals
