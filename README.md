@@ -73,7 +73,7 @@ Central Limit Theorem,
 Standard Error, Z - Score, Confiedence Intervals
 
 [Day - 11](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/11%20-%20Day%20-%2011%20-%20Exercises%20on%20Descriptive%20Statistics): 18-05-2019
-Part - 3:
+Exercise Session:
 Finding Descriptive Statistics for a data set in Excel, Understanding Covariance and Correlation Matrices, Solving Exercises for various Descriptive statistics concepts.
 
 [Day - 12](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/12%20-%20Day%20-%2012%20-%20Inferential%20Statistics%201): 19-05-2019
