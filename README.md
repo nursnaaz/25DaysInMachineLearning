@@ -67,7 +67,15 @@ Examples understanding indetail Concepts of Descriptive Statistics of Part - 1,
 Correlation, Covariance and Visualization
 
 [Day - 10](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 12-05-2019
-Part - 3:
+Exercise Session:
 Explaining Sampling bias, Various Sampling techniques, Characteristics of Normal Distribution and empirical rule,
 Central Limit Theorem,
 Standard Error, Z - Score, Confiedence Intervals
+
+[Day - 11](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 18-05-2019
+Part - 3:
+Finding Descriptive Statistics for a data set in Excel, Understanding Covariance and Correlation Matrices, Solving Exercises for various Descriptive statistics concepts.
+
+[Day - 12](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 19-05-2019
+Part - 1:
+Understanding Null and Alternate hypothesis, Left tailed, Right tailed and two tailed tests, Level of Significance and Confidence Interval, Traditional and P-value approahces of Hypothesis testings, Type 1 and type 2 errors
