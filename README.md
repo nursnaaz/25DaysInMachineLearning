@@ -72,7 +72,7 @@ Explaining Sampling bias, Various Sampling techniques, Characteristics of Normal
 Central Limit Theorem,
 Standard Error, Z - Score, Confiedence Intervals
 
-[Day - 11](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 18-05-2019
+[Day - 11](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/11%20-%20Day%20-%2011%20-%20Exercises%20on%20Descriptive%20Statistics): 18-05-2019
 Part - 3:
 Finding Descriptive Statistics for a data set in Excel, Understanding Covariance and Correlation Matrices, Solving Exercises for various Descriptive statistics concepts.
 
