@@ -76,6 +76,6 @@ Standard Error, Z - Score, Confiedence Intervals
 Part - 3:
 Finding Descriptive Statistics for a data set in Excel, Understanding Covariance and Correlation Matrices, Solving Exercises for various Descriptive statistics concepts.
 
-[Day - 12](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/10%20-%20Day%20-%2010%20-%20Descriptive%20Statistics%20%203): 19-05-2019
+[Day - 12](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/12%20-%20Day%20-%2012%20-%20Inferential%20Statistics%201): 19-05-2019
 Part - 1:
 Understanding Null and Alternate hypothesis, Left tailed, Right tailed and two tailed tests, Level of Significance and Confidence Interval, Traditional and P-value approahces of Hypothesis testings, Type 1 and type 2 errors
