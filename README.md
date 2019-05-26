@@ -79,3 +79,13 @@ Finding Descriptive Statistics for a data set in Excel, Understanding Covariance
 [Day - 12](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/12%20-%20Day%20-%2012%20-%20Inferential%20Statistics%201): 19-05-2019
 Part - 1:
 Understanding Null and Alternate hypothesis, Left tailed, Right tailed and two tailed tests, Level of Significance and Confidence Interval, Traditional and P-value approahces of Hypothesis testings, Type 1 and type 2 errors
+
+[Day - 13](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/13%20-%20Day%20-%2013%20-%20Inferential%20Statistics%202):
+25-05-2019
+Part - 2:
+Understanding Degree of Freedom, Z - Test, t - Test and Chi - Square Test
+
+[Day - 14](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/14%20-%20Day%20-%2014%20-%20Inferential%20Statistics%203):
+26-05-2019
+Part - 3:
+Analysis of Variance and Understanding Various plots using Searborn
