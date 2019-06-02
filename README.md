@@ -89,3 +89,12 @@ Understanding Degree of Freedom, Z - Test, t - Test and Chi - Square Test
 26-05-2019
 Part - 3:
 Analysis of Variance and Understanding Various plots using Searborn
+
+[Day - 15](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/15%20-%20Day%20-%2015%20-%20Probablity%20Theory):
+02-06-2019
+Probability:
+Introduction to probability, Trials, Sample space, Intersections - unions & Complements, Independent and dependent events and Conditional Probability
+
+[Day - 16](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/16%20-%20Day%20-%2016%20-%20Revision%20Class)
+Hackathon Session 
+Stats Revision
