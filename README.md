@@ -98,3 +98,19 @@ Introduction to probability, Trials, Sample space, Intersections - unions & Comp
 [Day - 16](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/16%20-%20Day%20-%2016%20-%20Revision%20Class)
 Hackathon Session 
 Stats Revision
+
+Day - 17](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/17%20-%20Day%20-%2017%20-%20Linear%20Regression):
+16-06-2019
+Linear Regression:
+Supervised Learning, What is Linear Regression?, find slope and intercept, Different ways to solve Linear Regression, Line of best fit method, Linear Algebra, Gradient Descent
+
+[Day - 18](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/18%20-%20Day%20-%2018%20-%20Linear%20Regression%20Practise%20Python)
+Linear Regression Practise
+Model Validation, train-test, Cross-validation, Variance, Bias, variance-bias trade-off, Error Metrics, simple linear regression model practise in company salary dataset, cab price dataset and House price prediction. 
+
+practise in Kaggle : 
+
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data
+https://www.kaggle.com/noordeen/big-city-health-data
+
