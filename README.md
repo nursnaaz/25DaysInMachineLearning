@@ -118,6 +118,6 @@ predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/b
 [Day - 19](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/19%20-%20Day%20-%2019%20-%20Hackathon%20Sample)
 22-06-2019
 Big Mart Sales (Linear Regression Hackathon Practise):
-[BigMart Sales Hackathon contest in AnalyticsVidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+[BigMart Sales Hackathon contest in AnalyticsVidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)<br>
 Did necessary preprocessing and predicted the result using the Linear regression and uploaded the result to Analytics Vidhya
  
