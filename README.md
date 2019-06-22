@@ -122,3 +122,6 @@ Big Mart Sales (Linear Regression Hackathon Practise):
 
 Did necessary preprocessing and predicted the result using the Linear regression and uploaded the result to Analytics Vidhya
  
+Assignment:
+
+[Predict Restaurant food cost](https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/) 
