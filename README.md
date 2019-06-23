@@ -115,3 +115,13 @@ Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium
 Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data
 predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data
 
+[Day - 19](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/19%20-%20Day%20-%2019%20-%20Hackathon%20Sample)
+22-06-2019
+Big Mart Sales (Linear Regression Hackathon Practise):
+[BigMart Sales Hackathon contest in AnalyticsVidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+
+Did necessary preprocessing and predicted the result using the Linear regression and uploaded the result to Analytics Vidhya
+ 
+Assignment:
+
+[Predict Restaurant food cost](https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/) 
