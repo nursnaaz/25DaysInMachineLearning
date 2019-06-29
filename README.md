@@ -125,3 +125,10 @@ Did necessary preprocessing and predicted the result using the Linear regression
 Assignment:
 
 [Predict Restaurant food cost](https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/) 
+
+[Day - 20](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/20%20-%20Day%20-20%20-%20Logistic%20Regression)
+23-06-2019
+Logistic Regression theory and Practise:
+Converting the continuous to probablity, Cost Function - Log loss, Error Metrics - Confusion Matrix, Accuracy, recall, precision, F1-score, ROC curve, AUC. 
+
+Predicting gender of an employer, Predicting marketing subscription by a customer.
