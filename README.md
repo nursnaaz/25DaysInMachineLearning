@@ -151,3 +151,5 @@ predict employee attrition : https://www.kaggle.com/noordeen/employee-attrition/
 Unsupervised Learning(K-means, Hierrachical Cluster):
 Un-Supervised Learning, K-means, K-means++, Within- Sum-of-Square, optimal K value, Elbow curve, Scaling Madatory, Heirarchical, Agglomerative, Dendogram 
 
+Assignment: Find the pattern of the credit card usage in the following kaggle dataset.<br>
+https://www.kaggle.com/noordeen/card-usage/kernels
