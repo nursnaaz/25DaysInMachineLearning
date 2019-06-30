@@ -145,3 +145,9 @@ Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium
 Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
 predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
 predict employee attrition : https://www.kaggle.com/noordeen/employee-attrition/kernels<br>
+
+[Day - 22](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/22%20-%20Day%20-%2022%20-%20K-means%2C%20Hierrachical):
+30-06-2019
+Unsupervised Learning(K-means, Hierrachical Cluster):
+Un-Supervised Learning, K-means, K-means++, Within- Sum-of-Square, optimal K value, Elbow curve, Scaling Madatory, Heirarchical, Agglomerative, Dendogram 
+
