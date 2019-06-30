@@ -111,9 +111,9 @@ Model Validation, train-test, Cross-validation, Variance, Bias, variance-bias tr
 
 practise in Kaggle : 
 
-Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels
-Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data
-predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels<br>
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
+predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
 
 [Day - 19](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/19%20-%20Day%20-%2019%20-%20Hackathon%20Sample)
 22-06-2019
@@ -132,3 +132,16 @@ Logistic Regression theory and Practise:
 Converting the continuous to probablity, Cost Function - Log loss, Error Metrics - Confusion Matrix, Accuracy, recall, precision, F1-score, ROC curve, AUC. 
 
 Predicting gender of an employer, Predicting marketing subscription by a customer.
+
+[Day - 21](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/21%20-%20Day%20-%2021%20-%20KNN%20-%20Naive%20Bayes)
+29-06-2019
+KNN and Naive Bayes Algorithm:
+KNN working, Regression and classification, Why scaling mandatory, How to find optimal K value, Computational Complexity of O(N^2), Why KD Tree. 
+Naive Bayes Working, Classification, Assumption of Naive Bayes, Bayes Theorem, Example 
+
+Assigment: Implement KNN algorithm in following kaggle datset
+
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels<br>
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
+predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
+predict employee attrition : https://www.kaggle.com/noordeen/employee-attrition/kernels<br>
