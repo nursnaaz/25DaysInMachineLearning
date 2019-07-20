@@ -1,0 +1,1 @@
+Predict whether to issue Personal Loan or not using Logistic Regression
