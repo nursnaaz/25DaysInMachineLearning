@@ -188,7 +188,7 @@ Assignemnt : Implement SVM and Stacking
 https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/25%20-%20Day%20-%2025%20-%20SVM/Assignment
 
 
-Day - 26](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/26%20-%20Day%20-%2026%20-%20TimeSeries
+[Day - 26](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/26%20-%20Day%20-%2026%20-%20TimeSeries
 ):
 14-07-2019
 TimeSeries:
