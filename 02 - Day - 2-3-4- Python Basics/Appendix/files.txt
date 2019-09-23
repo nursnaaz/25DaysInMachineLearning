@@ -1,0 +1,17 @@
+This is line 1:files.txt
+This is line 2:PythonBasics_Day8.ipynb
+This is line 3:.DS_Store
+This is line 4:PythonBasics_Day9.ipynb
+This is line 5:__pycache__
+This is line 6:PythonBasics_Day3.ipynb
+This is line 7:PythonBasics_Day1.ipynb
+This is line 8:example.py
+This is line 9:PythonBasics_Day5.ipynb
+This is line 10:PythonBasics_Day7.ipynb
+This is line 11:.ipynb_checkpoints
+This is line 12:examplecall.py
+This is line 13:PythonBasics_Day2.ipynb
+This is line 14:PythonBasics_Day6.ipynb
+This is line 15:PythonBasics_Day4.ipynb
+Appended line 1
+Appended line 2
